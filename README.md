@@ -9,3 +9,6 @@ This is still a work in progress, and may have bugs.
 
 ## Known Bugs
 - SwordPickup (line 264) does not do anything no matter what you decide on.
+
+## Other Documentation
+![UML](https://i.imgur.com/roczGsg.png)
