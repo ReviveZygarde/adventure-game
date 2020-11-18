@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 # adventure-game
 A CLI, text-heavy adventure game with ASCII visuals.
 This is still a work in progress, and may have bugs.
