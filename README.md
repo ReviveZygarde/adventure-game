@@ -5,7 +5,7 @@ This is still a work in progress, and may have bugs.
 ## Objective
 The objective of the game is somewhat linear, where you are teleported into a cybernetic world and go through many different locations, befriending a cat, and meeting a knight, trying to save a girl from a monster named Skeith.
 ## Win conditions
-This game has 2 endings. You must get the good ending to beat the game.
+This game has 2 endings. You must get the good ending to beat the game (could have gotten other factors to win rather than making one choice :p).
 
 
 ![SS01](https://i.imgur.com/MS4bnoZ.png)
@@ -19,6 +19,7 @@ This game has 2 endings. You must get the good ending to beat the game.
 ## Other Documentation
 - I could have gotten the Item class to bring some kind of function like holding in boolean values at least. Despite being shown, it's actually not really used.
 - There's many other things I can improve on, from asthetics to probably overhauling the whole thing, which I might do on my free time.
+
 Here is the UML Diagram:
 
 ![UML](https://i.imgur.com/roczGsg.png)
