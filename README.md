@@ -28,5 +28,6 @@ Here is the UML Diagram:
 All character names are purely coincidental, I do not intend to make a rip-off or anything like that.
 
 ### Credits
-Special thanks goes to Marco and a couple of my online friends who probably don't want their name disclosed here, for helping me with certain parts of the code.
-There are some parts of the code cited from other sources within the files.
+- Special thanks goes to Marco and a couple of my online friends who probably don't want their name disclosed here, for helping me with certain parts of the code.
+- There are some parts of the code cited from other sources within the files.
+- programmingisfun.com ~~Lol~~ for providing the basic structure. Formal crediting is in `program.cs`.
