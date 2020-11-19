@@ -17,6 +17,9 @@ This game has 2 endings. You must get the good ending to beat the game.
 - SwordPickup (line 264) does not do anything no matter what you decide on.
 
 ## Other Documentation
+- I could have gotten the Item class to bring some kind of function like holding in boolean values at least. Despite being shown, it's actually not really used.
+- There's many other things I can improve on, from asthetics to probably overhauling the whole thing, which I might do on my free time.
+Here is the UML Diagram:
 ![UML](https://i.imgur.com/roczGsg.png)
 
 ### Disclaimer
@@ -24,3 +27,4 @@ All character names are purely coincidental, I do not intend to make a rip-off o
 
 ### Credits
 Special thanks goes to Marco and a couple of my online friends who probably don't want their name disclosed here, for helping me with certain parts of the code.
+There are some parts of the code cited from other sources within the files.
