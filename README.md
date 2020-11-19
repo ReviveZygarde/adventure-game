@@ -21,3 +21,6 @@ This game has 2 endings. You must get the good ending to beat the game.
 
 ### Disclaimer
 All character names are purely coincidental, I do not intend to make a rip-off or anything like that.
+
+### Credits
+Special thanks goes to Marco and a couple of my online friends who probably don't want their name disclosed here, for helping me with certain parts of the code.
